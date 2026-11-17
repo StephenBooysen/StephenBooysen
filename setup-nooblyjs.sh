@@ -1,5 +1,5 @@
 # Install NooblyJS
-cd /workspaces/codespaces-blank/StephenBooysen/
+cd /workspaces/codespaces-blank/
 git clone git@github.com:StephenBooysen/nooblyjs.git
 git clone git@github.com:StephenBooysen/nooblyjs-core.git
 git clone git@github.com:StephenBooysen/nooblyjs-ai.git
@@ -19,9 +19,9 @@ cd /workspaces/codespaces-blank/StephenBooysen/nooblyjs-apps
 npm install
 
 # Install Stephen Booysen
-cd /workspaces/codespaces-blank/StephenBooysen/
+cd /workspaces/codespaces-blank/
 git clone git@github.com:StephenBooysen/game-development.git
 git clone git@github.com:StephenBooysen/exclusivity-life.git
 
-cd /workspaces/codespaces-blank/StephenBooysen/exclusivity-life
+cd /workspaces/codespaces-blank/exclusivity-life
 npm install
