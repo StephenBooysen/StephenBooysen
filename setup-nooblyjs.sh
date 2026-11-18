@@ -9,13 +9,13 @@ git clone git@github.com:StephenBooysen/nooblyjs-apps.git
 cd /workspaces/codespaces-blank/StephenBooysen/nooblyjs-core
 npm install
 
-cd /workspaces/codespaces-blank/StephenBooysen/nooblyjs-ai
+cd /workspaces/codespaces-blank/nooblyjs-ai
 npm install
 
-cd /workspaces/codespaces-blank/StephenBooysen/nooblyjs-accl
+cd /workspaces/codespaces-blank/nooblyjs-accl
 npm install
 
-cd /workspaces/codespaces-blank/StephenBooysen/nooblyjs-apps
+cd /workspaces/codespaces-blank/nooblyjs-apps
 npm install
 
 # Install Stephen Booysen
